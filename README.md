@@ -354,4 +354,4 @@ MIT
 
 W razie problemów lub pytań, skontaktuj się przez:
 - Issues na GitHubie
-- Email: [twoj-email@example.com]
+- Email: [kontakt.pinghost@gmail.com]
